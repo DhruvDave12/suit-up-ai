@@ -1,0 +1,22 @@
+# ignore all the __pycache__ folders
+__pycache__/
+
+# ignore all the .pyc files
+*.pyc
+
+# ignore all the .pyo files
+*.pyo
+
+# ignore all the .pyd files
+*.pyd
+
+# remove all json files
+*.json
+
+# remove all csv files
+*.csv
+
+# remove all txt files
+*.txt
+
+# remove all log files
